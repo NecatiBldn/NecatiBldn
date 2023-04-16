@@ -14,7 +14,7 @@
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:necatinldn@gmail.com)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)]
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=necatibldn" alt="necatibldn"/></p>
 
@@ -95,10 +95,10 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Bootstrap Web Page](https://axel-ac.github.io/Boostrap-Project/) <h3>[Repo](https://github.com/axel-ac/Boostrap-Project)</h3> | Boostrap |![Boostrap-Project](https://user-images.githubusercontent.com/102467587/219783358-be888a33-5332-45ef-bc40-5a6adeb73b8e.gif)
 [Sass Website Page Design](https://axel-ac.github.io/Sass-project/) <h3>[Repo](https://github.com/axel-ac/Sass-project)</h3> | Sass, Scss |![Sass-project](https://user-images.githubusercontent.com/102467587/219283604-7709569d-e7fa-4e46-8e3f-55b563f9d79c.gif)
 
-
-
-
-
+~
+~
+~
+~
 <br>
 
 <h2 align="center">:bulb:Most Used Language</h2>
